@@ -66,3 +66,12 @@ img {
 div.tab-content .row{
     border: 2px solid  lightgray ;
 }
+
+#logOut{
+    color: red;
+}
+
+#foto{
+    margin-top: 5%;
+}
+
