@@ -1,0 +1,68 @@
+body {
+    background-color:white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+input[type=text] {
+    outline: none;
+    border: none;
+    width: 100%;
+}
+
+h6 {
+    color: gray;
+    text-align: right;
+}
+
+img {
+    width:100%;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: transparent;
+    border: 1px solid  lightgray
+}
+
+.navbar-brand {
+    color: black;
+    font-family: 'Oleo Script', cursive;
+}
+
+.fas  {
+    color: gray;
+
+}
+
+#home {
+    background: white;
+}
+
+#nav-pills {
+    background: white;
+}
+
+#spacer {
+    background: white;
+}
+
+#dropdownMenuButton{
+    background: gray;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 4%;
+}
+
+#dropdownMenuButton>i{
+    color: white;
+}
+
+.nav-item{
+    background-color:none;
+    color: gray;
+}
+
+div.tab-content .row{
+    border: 2px solid  lightgray ;
+}
