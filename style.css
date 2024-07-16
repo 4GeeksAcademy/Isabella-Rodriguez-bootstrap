@@ -75,3 +75,7 @@ div.tab-content .row{
     margin-top: 5%;
 }
 
+.btn-close{
+    height: 30px;
+    width: 30px;
+}
