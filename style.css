@@ -18,10 +18,7 @@ img {
     width:100%;
 }
 
-.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
-    background-color: transparent;
-    border: 1px solid  lightgray
-}
+
 
 .navbar-brand {
     color: black;
@@ -58,10 +55,6 @@ img {
     color: white;
 }
 
-.nav-item{
-    background-color:none;
-    color: gray;
-}
 
 div.tab-content .row{
     border: 2px solid  lightgray ;
@@ -79,3 +72,9 @@ div.tab-content .row{
     height: 30px;
     width: 30px;
 }
+
+.nav-pills .nav-link.active{
+    color: blue;
+    background: transparent
+           }
+  
