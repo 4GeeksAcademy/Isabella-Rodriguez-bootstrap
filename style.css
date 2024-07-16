@@ -67,14 +67,3 @@ div.tab-content .row{
 #foto{
     margin-top: 5%;
 }
-
-.btn-close{
-    height: 30px;
-    width: 30px;
-}
-
-.nav-pills .nav-link.active{
-    color: blue;
-    background: transparent
-           }
-  
