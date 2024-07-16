@@ -10,8 +10,7 @@ input[type=text] {
 }
 
 h6 {
-    color: gray;
-    text-align: right;
+    float: right;
 }
 
 img {
@@ -42,14 +41,11 @@ img {
     background: white;
 }
 
-#dropdownMenuButton{
-    background: gray;
-    padding-top: 0%;
-    padding-bottom: 0%;
-    padding-left: 0%;
-    padding-right: 0%;
-    margin-left: 4%;
+#subtitle {
+    float: left;
 }
+
+
 
 #dropdownMenuButton>i{
     color: white;
@@ -60,10 +56,5 @@ div.tab-content .row{
     border: 2px solid  lightgray ;
 }
 
-#logOut{
-    color: red;
-}
 
-#foto{
-    margin-top: 5%;
-}
+
